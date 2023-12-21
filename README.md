@@ -9,3 +9,8 @@ A training to become a well-developed programmer in Data
     b- numbers larger that 65 from a
     c- even numbers from b
     d- [sum of numbers in c , len of c]
+
+3- Enter a 6 digit number:
+      a- maximum digit
+      b- number of even digits
+      c- sum of digits
